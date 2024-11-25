@@ -144,7 +144,11 @@ By combining awe-inspiring visuals with educational value, AR for extinct animal
 
 ## Articles published / References 
 1.Azuma, R. T. (1997). A Survey of Augmented Reality.  Presence: Teleoperators & Virtual Environments, 6(4), 355-385. 
+
 2.Billinghurst, M., Clark, A., & Lee, G. (2015). A Survey of Augmented Reality. Foundations and Trends® in Human–Computer Interaction, 8(2-3), 73-272. 
+
 3.Carmigniani, J., Furht, B., Anisetti, M., Ceravolo, P., Damiani, E., & Ivkovic, M. (2011). Augmented Reality Technologies, Systems, and Applications.  Multimedia Tools and Applications, 51(1), 341-377. 
+
 4.Zhou, F., Duh, H. B.-L., & Billinghurst, M. (2008). Trends in Augmented Reality Tracking, Interaction, and Display: A Review of Ten Years of ISMAR. Proceedings of the 7th IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR), 193-202. 
+
 5.Roesner, F., Kohno, T., & Molnar, D. (2014). Security and Privacy for Augmented Reality Systems.  Communications of the ACM, 57(4),  88-96.
