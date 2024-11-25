@@ -120,35 +120,31 @@ Partnerships with museums and educational institutions for exclusive content.
 #### Output1 - Rhomaleosaurus  is  a  genus  of  extinct  marine  reptiles  from  the  early  Jurassic period.
 ![image](https://github.com/user-attachments/assets/51a6fdde-c8bb-4d23-a9ee-545af15ea411)
 
-
 #### Output2- Steller's Sea Cow (Hydrodamalis gigas) was an herbivorous marine mammal, discovered in the 18th century and extinct by the late 1700s.
 ![image](https://github.com/user-attachments/assets/5cd89141-7faf-47f6-be24-faa57a513d63)
-
 
 #### Output3-  A 3D model of the Dodo that visitors can observe as it moves and interacts with its surroundings. 
 ![image](https://github.com/user-attachments/assets/7d679da2-5260-4ae2-b8da-89e5992b5782)
 
-
-
 ## Results and Impact
 ### Results
--Enhanced early detection of pancreatic cancer through integrated CT and biomarker analysis.
--Automated diagnostic reports with high accuracy and reduced false positives/negatives.
--Faster processing, saving time in clinical decision-making.
+The implementation of augmented reality (AR) for extinct animals has transformative potential across education, entertainment, and conservation awareness. 
+It provides an immersive learning platform where users can interact with lifelike, scientifically accurate models of extinct species, fostering a deeper understanding of their behaviors, habitats, and causes of extinction.
+By blending education with entertainment, the AR experience captivates users of all ages, promoting curiosity and retention of information. Additionally, it raises awareness about biodiversity loss and the importance of conservation by connecting past extinction events with current environmental challenges.
+Economically, such an initiative can drive revenue through partnerships with museums, schools, and eco-tourism organizations, while also setting new technological benchmarks for AR development. 
+Ultimately, AR for extinct animals inspires both wonder and responsibility, bridging the gap between history and modern-day efforts to protect endangered species.
 ### Impact
--Improved patient outcomes with timely intervention and better survival rates.
--Support for doctors with AI-driven insights for diagnosis.
--Cost-efficient and scalable solution for broader healthcare applications.
+The impact of augmented reality (AR) for extinct animals is profound, blending technology, education, and conservation to create meaningful experiences. 
+It revolutionizes how people learn about prehistoric life, allowing users to explore scientifically accurate reconstructions of extinct species and their habitats interactively. 
+This fosters curiosity and deeper engagement with natural history, making learning accessible and immersive for students, educators, and enthusiasts.
+Beyond education, AR experiences highlight the consequences of biodiversity loss, encouraging awareness and action to protect endangered species.
+The emotional connection formed through witnessing extinct creatures "come to life" inspires a sense of responsibility toward environmental stewardship.
+Additionally, AR's integration into museums, tourism, and entertainment boosts economic opportunities while advancing technology standards in visualization and interaction. 
+By combining awe-inspiring visuals with educational value, AR for extinct animals leaves a lasting impression on users and broadens the scope of how technology can preserve and share the story of Earth's lost wonders.
 
-## Articles published / References
-1.Singh, H., Jain, M., Bhatia, S. Machine learning in the prediction of pancreatic cancer using CT scan data: A review. Journal of Cancer Research and Therapeutics. 2021;17(5):1180-1185. doi: 10.4103/jcrt.JCRT_123_21
-
-2.Gibbs, P., Owens, D., Wenham, R., et al. A radiomic- based prediction model for pancreatic cancer using machine learning. Journal of Medical Imaging. 2021;8(3):031107.
-doi: 10.1117/1.JMI.8.3.031107
-
-3.Koay, E.J., Christodoulou, F., Smalley, C.M., et al.
-Predicting clinical outcomes in pancreatic cancer with radiomics and machine learning methods. JAMA Oncology. 2021;7(9):1314-1324. doi: 10.1001/jamaoncol.2021.221
-
-4.Ghosh, S., Bagchi, A., Dewangan, A., Pal, A. Multi- parametric MRI and radiomics-based machine learning
-techniques for pancreatic cancer diagnosis. Medical Physics.
-2020;47(10):5023-5032. doi: 10.1002/mp.14449
+## Articles published / References 
+1.Azuma, R. T. (1997). A Survey of Augmented Reality.  Presence: Teleoperators & Virtual Environments, 6(4), 355-385. 
+2.Billinghurst, M., Clark, A., & Lee, G. (2015). A Survey of Augmented Reality. Foundations and Trends® in Human–Computer Interaction, 8(2-3), 73-272. 
+3.Carmigniani, J., Furht, B., Anisetti, M., Ceravolo, P., Damiani, E., & Ivkovic, M. (2011). Augmented Reality Technologies, Systems, and Applications.  Multimedia Tools and Applications, 51(1), 341-377. 
+4.Zhou, F., Duh, H. B.-L., & Billinghurst, M. (2008). Trends in Augmented Reality Tracking, Interaction, and Display: A Review of Ten Years of ISMAR. Proceedings of the 7th IEEE/ACM International Symposium on Mixed and Augmented Reality (ISMAR), 193-202. 
+5.Roesner, F., Kohno, T., & Molnar, D. (2014). Security and Privacy for Augmented Reality Systems.  Communications of the ACM, 57(4),  88-96.
